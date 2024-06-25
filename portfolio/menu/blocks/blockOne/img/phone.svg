@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E6E6E6;}
+	.st1{fill:#E6E6E6;stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#000000;stroke-width:16;stroke-miterlimit:10;}
+	.st3{fill:#E6E6E6;stroke:#E6E6E6;stroke-miterlimit:10;}
+	.st4{fill:#E6E6E6;stroke:#000000;stroke-width:14;stroke-miterlimit:10;}
+	.st5{fill:#E6E6E6;stroke:#E6E6E6;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="st0" d="M472,471c-1.4,0-2.5-1.1-2.5-2.5v-246c0-1.4,1.1-2.5,2.5-2.5h158.5c1.4,0,2.5,1.1,2.5,2.5v246
+		c0,1.4-1.1,2.5-2.5,2.5H472z"/>
+	<path d="M630,223v245H472.5V223H630 M630.5,217H472c-3,0-5.5,2.5-5.5,5.5v246c0,3,2.5,5.5,5.5,5.5h158.5c3,0,5.5-2.5,5.5-5.5v-246
+		C636,219.5,633.5,217,630.5,217L630.5,217z"/>
+</g>
+<path class="st1" d="M444-24"/>
+<line class="st2" x1="633" y1="465" x2="469" y2="465"/>
+<ellipse class="st3" cx="551.7" cy="465.5" rx="3.6" ry="4"/>
+<line class="st4" x1="470" y1="226" x2="632" y2="226"/>
+<ellipse class="st3" cx="578.5" cy="225.5" rx="3.6" ry="4"/>
+<line class="st5" x1="538.5" y1="225.5" x2="564" y2="225.5"/>
+</svg>

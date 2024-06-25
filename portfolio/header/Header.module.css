@@ -1,0 +1,153 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.headerLinkTelegram {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(113, 156, 248);
+}
+
+.headerLinkTelegram a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 0 10px 0;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.headerEnterApplication {
+    display: flex;
+    align-items: center;
+    margin: 1% 0 0 10%;
+    justify-content: space-between;
+    height: 100%;
+    width: 80%;
+}
+
+.headerEnterApplication a {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.headerEnterApplication button {
+    background-color: rgb(113, 156, 248);
+    height: 45px;
+    width: 210px;
+    border: rgb(113, 156, 248);
+    border-radius: 5px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .logo img{
+    border-radius: 45px;
+    height: 45px;
+    width: 45px;
+    margin-top: 2.5px;
+}
+
+.logo {
+    margin-left: 20px;
+    margin-right: 60px;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+    width: 80%;
+}
+
+.rigth {
+    width: 20%;
+}
+
+.right a {
+    color: #ccd0cf;
+    text-decoration: none;
+}
+
+.header {
+    display: flex;
+    /* justify-content: space-around; */
+    /* height: 50px;
+    width: 100%;
+    background: rgba(6, 20, 27, 0.95);
+    transition: 1.5s;
+} */
+
+/* .left, .right {
+    /* border: 1px solid white; */
+    /* display: flex;
+    align-content: center;
+    height: 50px;
+    color: #ccd0cf;
+} */
+
+
+/* .nav a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* text-align: center; */
+    /* color: #ccd0cf; */
+    /* font-size: 18px;
+    text-decoration: none; */
+    /* margin-left: 60px; */
+    /* border: 1px solid white; */
+    /* height: 50px;
+    width: 25em;
+    transition: 1s; */
+/* 
+} 
+
+.nav a:nth-child(1) {
+    width: 30em;
+} */
+
+/* .nav {
+    display: flex;
+    align-items: center;
+    height: 50px;
+    width: 70%;
+    /* border: 1px solid white; */
+/* } */
+
+/* .nav a:hover {
+    background: rgb(74, 92, 106);
+} */
+
+/* .header:hover {
+    background: rgba(37, 55, 69, 0.9);
+    /* transition: 0.9s; */
+/* }  */ 
