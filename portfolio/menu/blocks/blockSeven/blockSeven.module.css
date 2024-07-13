@@ -1,0 +1,52 @@
+.blockSeven {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 80%;
+    margin: 5% 0 0 10%;
+}
+
+.heading {
+    text-align: center;
+}
+
+.miniBlock {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    margin-top: 5%;
+}
+
+.miniBlockOne {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    height: 100%;
+    width: 25%;
+    margin: 2% 0 0 8%;
+    box-shadow: 0 0 25px rgb(204, 203, 203);
+    padding: 3%;
+}
+
+.miniBlockOne img {
+    height: 40%;
+    width: 40%;
+    margin: 8% 0 8% 0;
+}
+
+.miniBlockOne span {
+    font-size: 1.2em;
+    margin-top: 5%;
+
+}
+
+.miniBlockOne p {
+    font-size: 1em;
+    margin: 0;
+}
+
+.miniBlockOne .span {
+    color: blue;
+    font-size: 2em;
+}

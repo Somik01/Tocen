@@ -1,0 +1,65 @@
+.blockEight {
+    display: flex;
+    background-color: rgb(113, 156, 248);
+    height: 100%;
+    width: 90%;
+    margin: 5% 0 0 5%;
+    border-radius: 30px;;
+}
+
+.blockEightLeft {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 50%;
+    margin: 5% 0 0 5%;
+}
+
+.blockEightLeft p {
+    color: white;
+    margin: 3% 0 0 0;
+    font-weight: 700;
+}
+
+.blockEightLeftPTop{
+    font-size: 2.5em;
+    font-weight: 700;
+}
+
+.blockEightLeftButton {
+    height: 100%;
+    width: 100%;
+}
+
+.blockEightLeftButton button {
+    margin: 5% 0 0 0;
+    border-radius: 5px;
+    font-size: 1.1em;
+    font-weight: 700;
+    padding: 2%;
+    height: 40%;
+    width: 20%;
+}
+
+.blockEightLeftButton button:first-child {
+    color: rgb(113, 156, 248);
+    background: white;
+    border: 2px solid white;
+}
+
+.blockEightLeftButton button:last-child {
+    color: white;
+    margin-left: 3%;
+    background-color: rgb(113, 156, 248);
+    border: 2px solid white;
+}
+
+.blockEightRight {
+    height: 100%;
+    width: 50%;
+}
+.blockEightRight img {
+    margin: 5% 5% 5% 20%;
+    height: 50%;
+    width: 50%;
+}

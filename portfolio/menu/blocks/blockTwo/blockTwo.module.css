@@ -1,0 +1,45 @@
+.blockTwo {
+    margin: 10% 0 0 10%;
+    height: 100%;
+    width: 80%;
+}
+
+.heading p {
+    font-size: 2em;
+    font-weight: 700;
+    text-align: center;
+    color: black;
+}
+
+.mini {
+    display: flex;
+}
+
+.dog, .gorilla, .rocket, .lock {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 22%;
+}
+
+.gorilla, .rocket, .lock {
+    margin: 0 0 0 5%;
+}
+
+.mini span{
+    margin-top: 5%;
+    font-size: 1.25em;
+    font-weight: 700;
+}
+
+.mini p {
+    margin-top: 8%;
+    color: grey;
+    font-size: 1em;
+}
+
+.mini img {
+    height: 40px;
+    width: 40px;
+}
+

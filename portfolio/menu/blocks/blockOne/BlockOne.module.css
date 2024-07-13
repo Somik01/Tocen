@@ -1,32 +1,112 @@
 .blockOne {
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     align-items: center;
     height: 100%;
     width: 80%;
-    margin: 10% 0 0 10%;
-    background-color: gray;
+    margin: 7% 0 0 10%;
+    /* background-color: gray; */
 
 }
 
 .blockOneLeft {
-    height: 100%;
-    width: 50%;
-    background: beige;
+    display: flex;
+    flex-direction: column;
+    height: 100%; 
+    width: 60%; 
+    /* flex-grow: 1; */
+    /* background: beige; */
 }
 
 .blockOneRight {
-    height: 100%;
-    width: 30%;
-    background-color: beige;
+    display: flex;
+    /* flex-grow: 1; */
+    /* border: 1px solid blue; */
+    /* border-radius: 100px; */
+    height: 100%; 
+    width: 50%; 
+    /* background-color: beige; */
 }
 
+.blockOneRightImg {
+    height: 100%; 
+    width: 100%; 
+}
 
+.blockOneRightImg img {
+    height: 100%;
+    width: 100%;
+}
 
+.blockOneLeft {
+    font-size: 2.9em;
+    font-weight: 900;
+    padding: 0 5% 0 0;
+}
+.blockOneLeftP span {
+    font-size: 1.2em;
+    color: black;
+}
+.blockOneLeftP p {
+    color: black;
+}
 
+.blockOneLeftP .pM{
+    font-size: 0.5em;
+    font-weight: 400;
+}
 
+.blockOneLeftButton {
+    display: flex;
+    margin: 5% 0 0 0;
+}
 
+.blockOneLeftButton button {
+    display: flex;
+    font-weight: 700;
+    align-items: center;
+    background: white;
+    border: 1px solid rgb(187, 185, 185);
+    border-radius: 9px;
+    width: 200px;
+    height: 45px;
+}
 
+.blockOneLeftButton button:nth-child(2) {
+    display: flex;
+    justify-content: center;
+    margin: 0 0 0 3%;
+    background-color: rgb(113, 156, 248);
+    color: white;
+}
+
+.blockOneLeftButton img {
+    width: 12%;
+    padding: 1% 5% 1% 8%;
+    /* height: 30%; */
+}
+
+.blockOneLeftSpan {
+    margin-top: 3%;
+}
+
+.blockOneLeftSpan p {
+    color: grey;
+    font-weight: 500;
+    font-size: 0.35em;
+}
+
+.blockOneLeftSpan span {
+    color: black;
+    font-size: 1.1em;
+    font-weight: 700;
+}
+
+.blockOneLeftSpan img{
+    height: 17px;
+    width: 17px;
+    margin: 0 5px 0 5px;
+}
 
 
 

@@ -1,0 +1,60 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 90%;
+    margin: 5% 0 0 5%;
+}
+
+.footerTop {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 1%;
+}
+
+.footerTop .seti button{
+    border: 1px solid rgb(113, 156, 248);
+    background-color: white;
+    color: rgb(113, 156, 248);
+    border-radius: 5px;
+    height: 100%;
+    width: 8%;
+    margin: 2%;
+}
+
+.nameProject {
+    height: 100%;
+    width: 30%;
+    font-size: 0.8em;
+}
+
+.seti {
+    display: flex;
+    justify-content: flex-end;
+    /* border: 1px solid grey; */
+    height: 50%;
+    width: 30%;
+}
+
+.informationPolicy {
+    display: flex;
+    justify-content: center;
+    font-size: 0.8em;
+    height: 100%;
+    width: 30%;
+}
+
+.informationPolicy p:last-child{
+    margin-left: 5%;
+}
+
+.footerBottom {
+    text-align: center;
+    border-top: 1px solid rgb(243, 240, 240);
+    font-size: 0.8em;
+    margin-bottom: 1%;
+
+}

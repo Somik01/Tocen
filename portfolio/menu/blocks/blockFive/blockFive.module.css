@@ -1,0 +1,42 @@
+.blockFive {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    width: 80%;
+    margin: 10% 0 0 10%;
+}
+
+.qb {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.q {
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-around; 
+    width: 33%;
+    height: 100%;
+    border: 1px solid gray;
+    border-radius: 8px;
+    margin: 2% 1% 2% 2%;
+    padding:  1% 0 0 1%;
+}
+
+.q2 span, .q3 span, .q4 span {
+    font-size: 1.3em;
+}
+
+.q2 p, .q3 p, .q4 p {
+    font-size: 0.9em;
+}
+
+.q22 p, .q33 p, .q44 p {
+    padding-top: 29%;
+    margin: 0 0 0 0;
+    font-size: 50px;
+    font-weight: 700;
+    opacity: .2;
+}
