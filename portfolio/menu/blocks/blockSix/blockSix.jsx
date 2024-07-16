@@ -1,7 +1,7 @@
 import bsi from './blockSix.module.css'
 import Img from './../../../img/state.jpg'
 
-function BlockSix() {
+export function BlockSix() {
     return (
         <div className={bsi.blockSix}>
             <div className={bsi.top}>
@@ -24,5 +24,3 @@ function BlockSix() {
         </div>
     )
 }
-
-export default BlockSix

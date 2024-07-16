@@ -1,7 +1,7 @@
 import be from './blockEight.module.css'
 import Img from './../../../img/planet.png'
 
-function BlockEight() {
+export function BlockEight() {
     return (
         <div className={be.blockEight}>
             <div className={be.blockEightLeft}>
@@ -20,4 +20,3 @@ function BlockEight() {
         </div>
     )
 }
-export default BlockEight

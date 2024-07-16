@@ -1,7 +1,7 @@
 import bthree from './blockThree.module.css'
 import Img from './../../../img/rocket1.jpg'
 
-function BlockThree() {
+export function BlockThree() {
     return(
         <div className={bthree.blockThree}>
             <div className={bthree.blockone}>
@@ -34,5 +34,3 @@ function BlockThree() {
         </div>
     )
 }
-
-export default BlockThree

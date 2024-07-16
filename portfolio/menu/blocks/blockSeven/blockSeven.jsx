@@ -1,7 +1,7 @@
 import bse from './blockSeven.module.css'
 import Img from './../../../img/rocket3.jpg'
 
-function BlockSeven() {
+export function BlockSeven() {
     return(
         <div className={bse.blockSeven}>
             <div className={bse.heading}>
@@ -42,5 +42,3 @@ function BlockSeven() {
         </div>
     )
 }
-
-export default BlockSeven

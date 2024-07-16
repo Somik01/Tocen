@@ -1,6 +1,6 @@
 import  bf from './blockFive.module.css'
 
-function BlockFive() {
+export function BlockFive() {
     return (
         <div className={bf.blockFive}>
             <div className={bf.pspan}>
@@ -40,4 +40,3 @@ function BlockFive() {
     )
 }
 
-export default BlockFive

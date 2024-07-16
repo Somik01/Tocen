@@ -35,5 +35,3 @@ import lock from './../../../img/lock.png'
         </div>
     )
 }
-
-export default BlockTwo

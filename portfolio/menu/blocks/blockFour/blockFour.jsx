@@ -1,7 +1,7 @@
 import bfour from './blockFour.module.css'
 import Img from './../../../img/rocket2.jpg'
 
-function BlockFour() {
+export function BlockFour() {
     return(
         <div className={bfour.blockFour}>
             <div className={bfour.span}>
@@ -27,5 +27,3 @@ function BlockFour() {
         </div>
     )
 }
-
-export default BlockFour
